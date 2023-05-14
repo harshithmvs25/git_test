@@ -1,2 +1,3 @@
 I am Harshith
 This is my first time in Odin Project
+Hello World this is the git practice session of The Odin Project
